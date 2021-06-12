@@ -1,0 +1,3 @@
+# misc
+mostly to place files which are in development  until they get some shape....
+once they get some shape they will be moved into respective respository.
